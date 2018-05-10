@@ -1,3 +1,7 @@
+#My items
+misc-items
+misc-items/*
+
 # Logs
 logs
 *.log
